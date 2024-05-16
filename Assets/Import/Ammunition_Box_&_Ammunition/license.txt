@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ammunition Box & Ammunition
+* source:	https://sketchfab.com/3d-models/ammunition-box-ammunition-74337818454d497a94df96b59125427d
+* author:	creationwasteland (https://sketchfab.com/creationwasteland)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ammunition Box & Ammunition" (https://sketchfab.com/3d-models/ammunition-box-ammunition-74337818454d497a94df96b59125427d) by creationwasteland (https://sketchfab.com/creationwasteland) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

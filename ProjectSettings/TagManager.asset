@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Enemy
+  - Waypoints
+  - Fists
+  - MeleeWeapons
+  - LeftFist
+  - RightFist
+  - Pistol
+  - Environment
+  - Hips
+  - LeftUpLeg
+  - LeftLeg
+  - RightUpLeg
+  - RightLeg
+  - Spine
+  - LeftArm
+  - LeftElbow
+  - RightArm
+  - RightElbow
+  - Head
+  - Rifle
+  - RifleMagazine
+  - Ammo
+  - Water
+  - HealthSound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Zombie
+  - Water
+  - UI
+  - Weapons
+  - Player
+  - ZombieParts
+  - Ragdoll
+  - MagazineAndBullets
+  - Environment
+  - GrabbableItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
